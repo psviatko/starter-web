@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Peter Sviatko		psviatko@gmail.com		@ThePete
 
 # THANKS
 
