@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work together.
 
 ## Introduction
 
-To work with github and diff functionality.
+To work with github and diff functionality  and various commands.
 
 ## Purpose
 
